@@ -41,6 +41,6 @@ namespace GradeNow.Pages
 			}			
             base.OnNavigatedTo(e);
         }
-
+       
     }
 }

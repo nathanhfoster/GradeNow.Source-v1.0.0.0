@@ -135,7 +135,7 @@
             HamburgerForeground="{StaticResource NavigationPaneButtonForeground}"
             NavigationItemTemplate="{StaticResource NavigationItemTemplate}"
             NavigationSubItemTemplate="{StaticResource NavigationItemTemplate}"
-            ListViewItemContainerStyle="{StaticResource ListViewItemContainerStyle}">
+            ListViewItemContainerStyle="{StaticResource ListViewItemContainerStyle}" Margin="0,10,0,-10">
             <Frame x:Name="frame" />
         </controls:ShellControl>
 	</Grid>
